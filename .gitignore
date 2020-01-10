@@ -3,3 +3,7 @@ env.sh
 envvars.sh
 .env
 env_setup.sh
+bin/
+lib/
+share/
+pyvenv.cfg
